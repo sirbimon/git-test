@@ -24,5 +24,9 @@ class ViewController: UIViewController {
     var killer = "mike myers"
     //making MATCHA great again!
     //make bubble tea great again!
+    
+//make pizza soggy again
+    // make calzone great again
+    // make soup suck again
 }
 
