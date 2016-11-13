@@ -21,8 +21,6 @@ class ViewController: UIViewController {
     }
     // Making a Change!!!!
     //making a change again!
-    func makeNationVerbAgain(var nation: String, var verb: String) -> String {
-        var maga = " Make \(nation) \(verb) again! "
-    }
+    var killer = "mike myers"
 }
 
